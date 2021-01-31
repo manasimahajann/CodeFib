@@ -5,6 +5,8 @@
 # To activate virtual environment
     - Navigate to the CodeFib
         - \Scripts\activate.bat
+    - to run python program 
+        - python fib.py
 
         To deactivate virtual environment
             - \Scripts\deactivate.bat
