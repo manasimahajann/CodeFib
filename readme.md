@@ -1,14 +1,7 @@
-# Key requirement
-    Python must be installed
+Programs needed to the the script
+    - Python
 # to install packages necessary for the code to run 
     - pip install -r requirements.txt
-# To activate virtual environment
-    - Navigate to the CodeFib
-        - \Scripts\activate.bat
-    - to run python program 
-        - python fib.py
-
-        To deactivate virtual environment
-            - \Scripts\deactivate.bat
+ 
     
 
